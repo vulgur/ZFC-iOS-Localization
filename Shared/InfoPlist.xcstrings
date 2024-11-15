@@ -22,6 +22,12 @@
             "value" : "Zen Flip Clock"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zen Flip Clock"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -77,6 +83,12 @@
           }
         },
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zen Flip Clock"
+          }
+        },
+        "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zen Flip Clock"
@@ -139,6 +151,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Habilitar la ejecución continua para el pomódoro y cronómetro"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activer l'exécution continue pour le pomodoro et le chronomètre"
           }
         },
         "ja" : {
